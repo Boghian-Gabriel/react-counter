@@ -5,7 +5,7 @@
   /* color: rgb(33, 33, 65); */
   background-image: linear-gradient(
     to right,
-    rgba(221, 203, 203, 0.8),
+    rgba(221, 203, 203, 1),
     rgb(122, 122, 212)
   );
   padding: 10px;
